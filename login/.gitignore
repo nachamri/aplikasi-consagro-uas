@@ -1,0 +1,94 @@
+# Flutter/Dart/Pub related
+**/doc/api/
+/.dart_tool/
+/.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache
+.pub/
+/build/
+
+# Obfuscation related
+app.*.symbols
+
+# Android related
+**/android/.gradle/
+**/android/captures/
+**/android/gradle.properties
+**/android/gradle/
+**/android/app/app.keystore
+**/android/app/debug.keystore
+**/android/local.properties
+**/android/release/
+
+# iOS related
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/ephemeral/
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/ephemeral/
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# Xcode
+**/ios/Flutter/Flutter.podspec
+**/ios/.symlinks/
+**/ios/Pods/
+**/ios/.dart_tool/
+**/ios/.vscode/
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/ephemeral/
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# VS Code
+.vscode/
+.idea/
+*.iml
+
+# Web related
+**/web/manifest.json
+
+# Mac related
+**/.DS_Store
+
+# Linux related
+**/linux/.flutter-plugins
+**/linux/.flutter-plugins-dependencies
+**/linux/flutter/generated_plugin_registrant.cc
+
+# Windows related
+**/windows/.flutter-plugins
+**/windows/.flutter-plugins-dependencies
+**/windows/flutter/generated_plugin_registrant.cc
+
+# Flutter-plugins
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Packages
+.packages
+
+# Flutter build output
+**/build/
+flutter_export_environment.sh
+
+# IntelliJ related
+*.iml
+.idea/
+
+# Dart tool related
+.dart_tool/
